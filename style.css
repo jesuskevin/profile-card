@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-    background: url(../images/bg-pattern-bottom.svg) bottom -450px right -100px no-repeat, url(../images/bg-pattern-top.svg) top -250px left -150px no-repeat;
+    background: url(./images/bg-pattern-bottom.svg) bottom -450px right -100px no-repeat, url(./images/bg-pattern-top.svg) top -250px left -150px no-repeat;
     background-color: hsl(185, 75%, 39%);
     min-height: 100vh;
     display: flex;

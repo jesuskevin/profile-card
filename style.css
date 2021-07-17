@@ -15,6 +15,7 @@ body {
     background-color: hsl(185, 75%, 39%);
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
